@@ -6,7 +6,7 @@
 _Mobile Developer_\
 _Electronics Engineer at [Uninorte](https://www.uninorte.edu.co/)_
 
-### Aboute me
+### About me
 I'm a enthusiast of mobile development. Always looking to be the best at what I do.
 
 ___
