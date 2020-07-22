@@ -6,8 +6,10 @@
 _Mobile Developer_\
 _Electronics Engineer at [Uninorte](https://www.uninorte.edu.co/)_
 
-### A little more about me...
+### Aboute me
+I'm a enthusiast of mobile development. Always looking to be the best at what I do.
 
+___
 ```dart
 const fabirt = Developer(
   pronouns: ["He", "Him"],
