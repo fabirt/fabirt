@@ -13,7 +13,7 @@ ___
 ```dart
 const fabirt = Developer(
   pronouns: ["He", "Him"],
-  askMeAbout: ["Multiplatform development, Android development"]
+  askMeAbout: ["Multiplatform development", "Android development"]
   languages: ["Dart", "Kotlin", "Javascript"],
   tools: ["Flutter", "Android Studio", "Android Jetpack", "Xcode", "VS code"],
   architecture: ["Layered Architecture", "Domain Driven Design"],
