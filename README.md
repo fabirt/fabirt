@@ -14,7 +14,7 @@ ___
 const fabirt = Developer(
   pronouns: ["He", "Him"],
   askMeAbout: ["Multiplatform development", "Android development"]
-  languages: ["Dart", "Kotlin", "Javascript"],
+  languages: ["Dart", "Kotlin", "Swift", "Javascript"],
   tools: ["Flutter", "Android Studio", "Android Jetpack", "Xcode", "VS code"],
   architecture: ["Layered Architecture", "Domain Driven Design"],
   misc: ["Firebase", "ML kit", "SQLite", "Socket.IO"],
