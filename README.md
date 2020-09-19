@@ -3,7 +3,7 @@
   <img src="https://lh3.googleusercontent.com/y0XJD4Ozs7Ik3MrfdZ0C2WtzRhz9OajUA5HGJIoQEfZTV4GzMyoc27ecLZCaoIDiZXo" width="40">
 </h2>
 
-_Mobile Developer_\
+_Mobile Developer_
 
 ### About me
 I'm a enthusiast of mobile development. Always looking to be the best at what I do.
