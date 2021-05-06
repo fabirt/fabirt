@@ -10,11 +10,11 @@ I'm a enthusiast of mobile development. Always looking to be the best at what I 
 
 ___
 ```dart
-const fabirt = Developer(
+var fabian = Developer(
   pronouns: ["He", "Him"],
-  askMeAbout: ["Multiplatform development", "Android development", "iOS development"]
-  languages: ["Dart", "Kotlin", "Swift", "Javascript"],
-  tools: ["Flutter", "Android Studio", "Android Jetpack", "Xcode", "SwiftUI", "VS code"],
+  askMeAbout: ["Android development", "iOS development", "Multiplatform development"]
+  languages: ["Dart", "Kotlin", "Swift"],
+  tools: ["Android Studio", "Android Jetpack", "Flutter", "Xcode", "SwiftUI", "VS code"],
   architecture: ["Layered Architecture", "Domain Driven Design"],
   misc: ["Firebase", "ML kit", "SQLite", "Socket.IO"],
 );
