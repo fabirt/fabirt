@@ -6,7 +6,7 @@
 _Mobile Developer_
 
 ### About me
-I'm a enthusiast of mobile development. Always looking to be the best at what I do.
+I'm an enthusiast of mobile development. Always looking to be the best at what I do.
 
 ___
 ```dart
