@@ -1,9 +1,14 @@
+<!-- ignore
 <h2>
   Hi, I'm Fabian! 
   <img src="https://lh3.googleusercontent.com/y0XJD4Ozs7Ik3MrfdZ0C2WtzRhz9OajUA5HGJIoQEfZTV4GzMyoc27ecLZCaoIDiZXo" width="40">
 </h2>
+-->
 
-_Mobile Developer_
+<img
+alt="Fabian Banner"
+src="https://user-images.githubusercontent.com/42015883/181658074-6faf3a06-ff53-4106-a075-32bc3f0eb289.png"
+/>
 
 ### About me
 I'm an enthusiast of mobile development. Always looking to be the best at what I do.
@@ -40,18 +45,3 @@ var fabian = Developer(
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white")
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white")
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white")
-
-<!--
-**fabirt/fabirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
